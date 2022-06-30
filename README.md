@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrey Jimenez</h1>
-<h3 align="center">I am a trilingual Business Administrator👨‍💼 looking for an opportunity on Web Development 👨‍💻 to start a new career path. After 2 years working on my own Website 🖱 I have discovered how passionate I am about Front-End Development 🖥 I have been self-learning since then, and recently I started focusing on email development 📧 looking to be ready to apply to a job position and the time has just arrived.</h3>
+<h3 align="center">I am a trilingual Business Administrator👨‍💼 looking for an opportunity on Web Development 👨‍💻 to start a new career path. After 2 years working on my own Blog 🖱 I have discovered how passionate I am about Front-End Development 🖥 I have been self-learning since then, and recently I started focusing on email development 📧 looking to be ready to apply to a job position and the time has just arrived.</h3>
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/andreyjimenez](https://www.behance.net/andreyjimenez)
 
